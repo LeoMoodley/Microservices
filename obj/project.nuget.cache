@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogc8fE5/YS1LTimIu+DBZfJ11ABx1WrBt491i/FYt5b16pNd1BKCp63r1znP+kTemrDLph5Zfkpm8mX+TvsQUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leomo\\source\\repos\\Microservices\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leomo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
